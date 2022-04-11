@@ -14,7 +14,7 @@ export const GiftExpertApp = props => {
 
 
       <>
-          <h2>GiftExpertApp</h2>
+          <h2>Gif-ExpertApp</h2>
           <AddCategory setCategories={ setCategories }/>
           <hr />
 
